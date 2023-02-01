@@ -6,3 +6,6 @@ Any file in this repository is owned by Microsoft Corporation. TheDoggyBrad has 
 <br>
 <br>
 The files are distributed together with a copy of Windows 11, thus the EULA for this is located on: https://github.com/thedoggybrad/Windows-11-22H2-Web-Folder/blob/main/license.md
+<br>
+<br>
+For the sake of preservation, this repository is now been archived.
